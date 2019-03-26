@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "helloworld ionic": "helloworld-in-ionic",
+    "default": "helloworld-in-ionic"
+  }
+}
